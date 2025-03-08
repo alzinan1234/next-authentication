@@ -30,7 +30,7 @@ const RegisterPage = () => {
   return (
     <div className="my-10">
       <h1 className="text-center text-4xl mb-5">
-        Register <span className="text-accent">Now</span>
+        RGISTER <span className="text-accent">NOW</span>
       </h1>
       <div className="grid grid-cols-2 gap-4">
         <div>
